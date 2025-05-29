@@ -95,7 +95,7 @@ body {
 
 /* Hero Section */
 .hero {
-  height: 100vh;
+  height: 80vh;
   display: flex;
   align-items: center;
   padding-top: 60px;
@@ -728,7 +728,7 @@ textarea.form-control {
   justify-content: center;
   width: 40px;
   height: 40px;
-  background:  linear-gradient(
+  background: linear-gradient(
     118deg,
     rgba(76, 106, 216, 0.9) 7%,
     rgba(150, 132, 232, 0.9) 89%
